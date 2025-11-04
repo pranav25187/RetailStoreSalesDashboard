@@ -58,4 +58,4 @@ The report contains multiple interactive sections and visual elements:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/pranav-borse/RetailStoreSalesDashboard.git
+ghttps://github.com/pranav25187/RetailStoreSalesDashboard.git
